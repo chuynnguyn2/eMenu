@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/">
+        <file>import/EMenu/Constants.qml</file>
+        <file>import/EMenu/qmldir</file>
+        <file>import/EMenu/DirectoryFontLoader.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>EMenu.qmlproject</file>
+        <file>content/ApplicationFlow.qml</file>
+        <file>content/ApplicationFlowForm.ui.qml</file>
+        <file>content/CustomButton.qml</file>
+        <file>content/CustomSpinBox.qml</file>
+        <file>content/DrinkList.qml</file>
+        <file>content/Logo.ui.qml</file>
+        <file>content/main.qml</file>
+        <file>content/images/1logo_do.png</file>
+        <file>content/images/2logo_hong.png</file>
+        <file>content/images/3logo_xanh.png</file>
+        <file>content/images/4logo_xanhnhe.png</file>
+        <file>content/images/5logo_xanhla.png</file>
+        <file>content/images/6logo_vang.png</file>
+        <file>content/images/blue_lagoon.png</file>
+        <file>content/images/cassis_orange.png</file>
+        <file>content/images/japanese_slipper.png</file>
+        <file>content/images/pink_lady.png</file>
+        <file>content/images/right-arrow.png</file>
+        <file>content/images/tequila_sunrise.png</file>
+        <file>content/images/hightlightImg.jpg</file>
+        <file>content/images/add.png</file>
+        <file>content/images/minus.png</file>
+        <file>content/Screen01Form.ui.qml</file>
+        <file>content/Screen02Form.ui.qml</file>
+        <file>content/ChosenDrink.qml</file>
+        <file>content/fonts/VNI-Truck.ttf</file>
+    </qresource>
+</RCC>
